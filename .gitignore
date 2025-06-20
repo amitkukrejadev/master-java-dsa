@@ -1,0 +1,11 @@
+# Ignore compiled class files
+*.class
+
+# Ignore system files
+.DS_Store
+# Ignore IDE folders
+.idea/
+.vscode/
+out/
+target/*.class
+*.class
