@@ -10,12 +10,11 @@ public class Problem7 {
          * Print the result and show each step using intermediate variables.
          */
 
-         int a = 6;
-         int b = 4;
-         int c = 12;
-         int d = 3;
-         int result = (a * b + c / d - (a + d) % b);
-         int result2 = a * b + c / d - (a + d) % b;
-         System.out.println(result);
+        int a = 6;
+        int b = 4;
+        int c = 12;
+        int d = 3;
+        int result = (a * b + c / d - (a + d) % b);
+        System.out.println(result);
     }
 }

@@ -11,6 +11,6 @@ public class Problem5 {
         String firstName = "Amit";
         String lastName = "Kukreja";
 
-        System.out.println();
+        System.out.println("Full Name: " + firstName + " " + lastName);
     }
 }
