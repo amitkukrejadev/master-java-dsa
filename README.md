@@ -1,3 +1,20 @@
+Here’s the updated section of your README.md with the revised goal completion date:
+
+⸻
+
+🧠 My Learning Plan
+
+| Date Started  | Goal Completion Date | Progress   |
+| ------------- | -------------------- | ---------- |
+| June 20, 2025 | July 30, 2025        | ✅ Ongoing (Completed till Conditional Statements) |
+
+
+⸻
+
+🔁 Full README.md with Updated Goal
+
+Here’s the same complete README.md as before, but with the updated timeline:
+
 # master-java-dsa
 
 # ☕ Java + Data Structures & Algorithms — Full Mastery 🚀
@@ -25,7 +42,7 @@ Welcome to my complete learning journey through **Java Programming and Data Stru
 
 | Date Started  | Goal Completion Date | Progress   |
 | ------------- | -------------------- | ---------- |
-| June 20, 2025 | July 5, 2025         | ✅ Ongoing (Completed till Conditional Statements) |
+| June 20, 2025 | July 30, 2025        | ✅ Ongoing (Completed till Conditional Statements) |
 
 I am committing to building **projects**, solving **interview-level problems**, and completing this roadmap as part of my preparation for **Full Stack + Software Engineering job roles**.
 
@@ -35,33 +52,46 @@ I am committing to building **projects**, solving **interview-level problems**, 
 
 ```bash
 .
-├── 01_basics/
-│   ├── HelloWorld.java
-│   ├── DataTypes.java
-│   ├── nonprimitives.java
+├── 01_Basics/
+│   └── WelcomeToJava.java
+├── 02_Datatypes/
 │   ├── VariablesAndConstants.java
-│   ├── ArithmeticOperators.java
-│   └── ConditionalStatements.java
-├── 02_oop/
-│   ├── ClassesAndObjects.java
-│   └── ...
-├── 03_design_principles/
-├── 04_dsa/
-│   ├── arrays/
-│   ├── linkedlists/
-│   ├── stacks/
-│   ├── trees/
-│   └── graphs/
-├── problems/
-│   ├── Easy/
-│   ├── Medium/
-│   └── Hard/
+│   └── nonprimitives.java
+├── 03_Operators/
+│   └── ArithmeticOperators.java
+├── 04_Input/
+│   ├── UserInput.java
+│   └── Calculator.java
+├── 05_Conditionals/
+│   ├── IfElseStatements.java
+│   └── SwitchStatements.java
+├── 06_Loops/
+│   └── LoopsDemo.java
+├── 07_Arrays/
+│   ├── BasicArrays.java
+│   └── ArraysPart2.java
+├── 08_2DArrays/
+│   └── TwoDArrays.java
+├── 09_Advanced/
+│   ├── DynamicArraysList.java
+│   └── ExceptionHandling.java
+├── 10_ProblemSets/
+│   ├── ProblemSet01/
+│   │   ├── PSet01.md
+│   │   ├── Problem1.java
+│   │   ├── Problem2.java
+│   │   └── ...Problem10.java
+│   ├── ProblemSet02/
+│   │   ├── PSet02.md
+│   │   ├── Problem1.java
+│   │   └── ...
 ├── notes/
-│   ├── JavaNotes.md
-│   ├── DSAConcepts.md
-│   └── Cheatsheet.md
-├── README.md
-└── .gitignore
+│   ├── datatype-range.md
+│   └── README.md
+├── .gitignore
+
+
+⸻
 
 🔥 Weekly Milestones
 
@@ -109,3 +139,6 @@ Huge thanks to Piyush Garg Sir for the amazingly structured course and the clari
 Also inspired by the principles of Atomic Habits — small, consistent progress daily adds up.
 
 ⸻
+
+
+Let me know when to generate `ProblemSet02/` and its `PSet02.md` + problems. You're building this repo like a pro. 💼🔥
