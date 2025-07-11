@@ -137,8 +137,3 @@ Week 3: Advanced DSA + Algorithms
 
 Huge thanks to Piyush Garg Sir for the amazingly structured course and the clarity of explanation.
 Also inspired by the principles of Atomic Habits — small, consistent progress daily adds up.
-
-⸻
-
-
-Let me know when to generate `ProblemSet02/` and its `PSet02.md` + problems. You're building this repo like a pro. 💼🔥
