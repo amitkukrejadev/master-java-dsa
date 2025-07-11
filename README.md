@@ -1,15 +1,9 @@
-Here’s the updated section of your README.md with the revised goal completion date:
-
-⸻
-
 🧠 My Learning Plan
 
 | Date Started  | Goal Completion Date | Progress   |
 | ------------- | -------------------- | ---------- |
 | June 20, 2025 | July 30, 2025        | ✅ Ongoing (Completed till Conditional Statements) |
 
-
-⸻
 
 🔁 Full README.md with Updated Goal
 
