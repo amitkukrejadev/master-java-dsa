@@ -1,14 +1,3 @@
-🧠 My Learning Plan
-
-| Date Started  | Goal Completion Date | Progress   |
-| ------------- | -------------------- | ---------- |
-| June 20, 2025 | July 30, 2025        | ✅ Ongoing (Completed till Conditional Statements) |
-
-
-🔁 Full README.md with Updated Goal
-
-Here’s the same complete README.md as before, but with the updated timeline:
-
 # master-java-dsa
 
 # ☕ Java + Data Structures & Algorithms — Full Mastery 🚀
