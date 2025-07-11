@@ -10,7 +10,7 @@ Welcome to my complete learning journey through **Java Programming and Data Stru
 
 **Course Title:** _Data Structures and Algorithms with Java_  
 **Instructor:** Piyush Garg  
-**Platform:** [Add Link if online]  
+**Platform:** [[Add Link if online](https://www.udemy.com/course/java-dsa/)]  
 **Total Duration:** 43+ hours  
 **Sections Covered:**  
 ✅ Java Basics, OOP, SOLID Design  
