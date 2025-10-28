@@ -1,5 +1,3 @@
-package Datatypes;
-
 public class nonprimitives {
     public static void main(String[] args) {
         // String - Non-primitive type

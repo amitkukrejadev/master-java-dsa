@@ -1,20 +1,3 @@
-Here’s the updated section of your README.md with the revised goal completion date:
-
-⸻
-
-🧠 My Learning Plan
-
-| Date Started  | Goal Completion Date | Progress   |
-| ------------- | -------------------- | ---------- |
-| June 20, 2025 | July 30, 2025        | ✅ Ongoing (Completed till Conditional Statements) |
-
-
-⸻
-
-🔁 Full README.md with Updated Goal
-
-Here’s the same complete README.md as before, but with the updated timeline:
-
 # master-java-dsa
 
 # ☕ Java + Data Structures & Algorithms — Full Mastery 🚀
@@ -40,9 +23,9 @@ Welcome to my complete learning journey through **Java Programming and Data Stru
 
 ## 🧠 My Learning Plan
 
-| Date Started  | Goal Completion Date | Progress   |
-| ------------- | -------------------- | ---------- |
-| June 20, 2025 | July 30, 2025        | ✅ Ongoing (Completed till Conditional Statements) |
+| Date Started  | Goal Completion Date | Progress                           |
+| ------------- | -------------------- | ---------------------------------- |
+| June 20, 2025 | August 10, 2025      | ✅ Ongoing (Completed till Arrays) |
 
 I am committing to building **projects**, solving **interview-level problems**, and completing this roadmap as part of my preparation for **Full Stack + Software Engineering job roles**.
 
@@ -51,7 +34,6 @@ I am committing to building **projects**, solving **interview-level problems**, 
 ## 📁 Repository Structure
 
 ```bash
-.
 ├── 01_Basics/
 │   └── WelcomeToJava.java
 ├── 02_Datatypes/
@@ -89,47 +71,45 @@ I am committing to building **projects**, solving **interview-level problems**, 
 │   ├── datatype-range.md
 │   └── README.md
 ├── .gitignore
-
-
 ⸻
 
 🔥 Weekly Milestones
 
 Week 1: Java Fundamentals + Arrays
-	•	Hello World
-	•	Data Types, Variables, Constants
-	•	Basic Arithmetic Operators
-	•	Conditionals, Loops
-	•	Arrays & 2D Arrays
+•	Hello World
+•	Data Types, Variables, Constants
+•	Basic Arithmetic Operators
+•	Conditionals, Loops
+•	Arrays & 2D Arrays
 
 Week 2: OOP + DSA Foundations
-	•	Classes, Objects, Constructors
-	•	Static & This
-	•	HashMap, Set
-	•	Problem Solving on Arrays
+•	Classes, Objects, Constructors
+•	Static & This
+•	HashMap, Set
+•	Problem Solving on Arrays
 
 Week 3: Advanced DSA + Algorithms
-	•	Linked Lists, Stacks, Queues
-	•	Trees & BST
-	•	Recursion, Backtracking
-	•	Sorting & Searching
+•	Linked Lists, Stacks, Queues
+•	Trees & BST
+•	Recursion, Backtracking
+•	Sorting & Searching
 
 ⸻
 
 🛠️ Tools Used
-	•	Java 24 (JDK)
-	•	IntelliJ IDEA / VS Code
-	•	Git & GitHub
-	•	Markdown for notes
-	•	Whiteboard for logic
+• Java 24 (JDK)
+• IntelliJ IDEA / VS Code
+• Git & GitHub
+• Markdown for notes
+• Whiteboard for logic
 
 ⸻
 
 📌 Purpose of This Repository
-	•	✅ Track my own progress
-	•	✅ Solidify Java + DSA understanding
-	•	✅ Practice interview-style questions
-	•	✅ Share progress publicly as proof of consistency
+• ✅ Track my own progress
+• ✅ Solidify Java + DSA understanding
+• ✅ Practice interview-style questions
+• ✅ Share progress publicly as proof of consistency
 
 ⸻
 
@@ -137,8 +117,4 @@ Week 3: Advanced DSA + Algorithms
 
 Huge thanks to Piyush Garg Sir for the amazingly structured course and the clarity of explanation.
 Also inspired by the principles of Atomic Habits — small, consistent progress daily adds up.
-
-⸻
-
-
-Let me know when to generate `ProblemSet02/` and its `PSet02.md` + problems. You're building this repo like a pro. 💼🔥
+```
