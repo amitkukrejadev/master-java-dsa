@@ -1,4 +1,4 @@
-package Basics;
+// package Basics;
 
 class Main {
     Main() {
